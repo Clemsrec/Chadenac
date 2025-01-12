@@ -1,0 +1,9 @@
+GET
+https://reservation.chadenac.com/.well-known/acme-challenge/test.txt
+[HTTP/1.1 404 Not Found 163ms]
+
+Cette page est en mode de compatibilité (quirks). La mise en page peut en être affectée. Pour le mode standard, utilisez « <!DOCTYPE html> ». test.txt
+GET
+https://reservation.chadenac.com/favicon.ico
+[HTTP/1.1 404 Not Found 0ms]
+

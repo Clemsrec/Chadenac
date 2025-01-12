@@ -1,0 +1,75 @@
+1	Week-end spirituel	Frais d'inscription couple / famille	Frais d'inscription pour couple ou famille	25.00	WSPI-FIF	WS Frais d'inscription famille	1	\N	\N
+2	Week-end spirituel	Frais d'inscription solo	Frais d'inscription pour une personne seule	21.00	WSPI-FIS	WS Frais d'inscription solo	1	\N	\N
+3	Week-end spirituel	Adulte - nuitée vendredi + petit déjeuner	Nuitée du vendredi avec petit déjeuner pour adulte	26.00	WSNPA	WS Nuit+Pdj Adulte	1	\N	\N
+4	Week-end spirituel	Enfant - nuitée vendredi + petit déjeuner	Nuitée du vendredi avec petit déjeuner pour enfant	16.00	WSNPE	WS Nuit+Pdj Enfant	1	\N	\N
+5	Week-end spirituel	Adulte - forfait nuitée + repas du samedi au dimanche	Forfait nuitée et repas du samedi au dimanche pour adulte	74.00	WSFPCA	WS Forfait PC Adulte	1	\N	\N
+6	Week-end spirituel	Enfant - forfait nuitée + repas du samedi au dimanche	Forfait nuitée et repas du samedi au dimanche pour enfant	46.00	WSFPCE	WS Forfait PC Enfant	1	\N	\N
+7	Session avec Sainte Hildegarde	Chambre collective (sanitaires à proximité)	Chambre collective avec sanitaires à proximité	392.00	HCCOL	Hildegarde Chambre Coll	2	\N	\N
+8	Session avec Sainte Hildegarde	Chambre 4 lits	Chambre avec 4 lits	434.00	HC4L	Hildegarde Chambre 4 lits	2	\N	\N
+9	Session avec Sainte Hildegarde	Chambre 2 ou 3 lits	Chambre avec 2 ou 3 lits	488.00	HC23	Hildegarde Chambre 2-3 lits	2	\N	\N
+10	Session avec Sainte Hildegarde	Chambre individuelle	Chambre individuelle	614.00	HCI	Hildegarde Chambre individuel	2	\N	\N
+11	Session avec Sainte Hildegarde	Externat : frais d'inscription + tous les repas	Externat avec frais d'inscription et tous les repas	352.00	HEXT	Hildegarde Externat	2	\N	\N
+12	Week-end ressourcement et détente solos	Chambre collective (sanitaires à proximité)	Chambre collective avec sanitaires à proximité	236.00	WESCCOL	Weekend Solo Collective	3	\N	\N
+13	Week-end ressourcement et détente solos	Chambre 4 lits	Chambre avec 4 lits	264.00	WESC4L	Weekend Solo Chambre 4l	3	\N	\N
+14	Week-end ressourcement et détente solos	Chambre 2 ou 3 lits	Chambre avec 2 ou 3 lits	300.00	WESC23	Weekend Solo Chambre 2-3 lits	3	\N	\N
+15	Week-end ressourcement et détente solos	Chambre individuelle	Chambre individuelle	384.00	WESCI	Weekend Solo Individuelle	3	\N	\N
+16	Stage Confiance en soi	Frais pédagogiques stage "Confiance en soi"	Frais pédagogiques pour le stage "Confiance en soi"	310.00	STETRES	Stage confiance en soi	4	\N	\N
+17	Stage Confiance en soi	Chambre 4 lits	Chambre avec 4 lits	328.50	SRCS4L	Stage résid conf en soi 4l	4	\N	\N
+18	Stage Confiance en soi	Chambre 2 ou 3 lits	Chambre avec 2 ou 3 lits	382.50	SRCS23L	Stage résid conf en soi 2-3 L	4	\N	\N
+19	Stage Confiance en soi	Chambre individuelle	Chambre individuelle	508.50	SRCSI	Stage résid conf soi individue	4	\N	\N
+20	Stage Confiance en soi	Externat : frais d'inscription + 6 repas	Externat avec frais d'inscription et 6 repas	168.00	SRCSEXT	Stage résid conf en soi EXT	4	\N	\N
+21	Séjours de vacances solos	Chambre collective (sanitaires à proximité)	Chambre collective avec sanitaires à proximité	379.00	SVSCOLL	Séjour Vac Solo Collective	5	\N	\N
+22	Séjours de vacances solos	Chambre 4 lits	Chambre avec 4 lits	428.00	SVS4L	Séjour Vac Solo Ch 4 lits	5	\N	\N
+23	Séjours de vacances solos	Chambre 2 ou 3 lits	Chambre avec 2 ou 3 lits	491.00	SVS23	Séjour Vac Solo Ch 2-3 lits	5	\N	\N
+24	Séjours de vacances solos	Chambre individuelle	Chambre individuelle	638.00	SVSI	Séjour Vac Solo Individuelle	5	\N	\N
+25	Séjours de vacances solos	Externat : frais d'inscription	Externat avec frais d'inscription	28.00	FRINSTEXT	Frais d'inscription externat	5	\N	\N
+26	Séjours de vacances familles - 7 jours	Pension complète - 12 à 15 ans	Pension complète pour 12 à 15 ans	371.00	SF7PC12	Forfait PC 12-15 7 jrs	6	\N	\N
+27	Séjours de vacances familles - 7 jours	Pension complète - 12 à 15 ans (si dortoir)	Pension complète pour 12 à 15 ans en dortoir	308.00	SF7PC12D	Forfait PC 12-15 coll 7 jrs	6	\N	\N
+28	Séjours de vacances familles - 7 jours	Pension complète - 6 à 11 ans	Pension complète pour 6 à 11 ans	308.00	SF7PC6	Forfait PC 6-11 7 jrs	6	\N	\N
+29	Séjours de vacances familles - 7 jours	Pension complète - 2 à 5 ans	Pension complète pour 2 à 5 ans	266.00	SF7PC2	Forfait PC 2-5 7 jrs	6	\N	\N
+30	Séjours de vacances familles - 7 jours	Pension complète - Moins de 2 ans	Pension complète pour moins de 2 ans	0.00	SF7PCBB	Forfait PC BB 7 jrs	6	\N	\N
+31	Séjours de vacances familles - 7 jours	Demi-pension - 16 ans et plus	Demi-pension pour 16 ans et plus	406.00	SF7DP16	Forfait DP 16-18 7 jrs	6	\N	\N
+32	Séjours de vacances familles - 7 jours	Demi-pension - 12 à 15 ans	Demi-pension pour 12 à 15 ans	343.00	SF7DP12	Forfait DP 12-15 7 jrs	6	\N	\N
+33	Séjours de vacances familles - 7 jours	Demi-pension - 12 à 15 ans (si dortoir)	Demi-pension pour 12 à 15 ans en dortoir	273.00	SF7DP12D	Forfait DP 12-15 coll 7 jrs	6	\N	\N
+34	Séjours de vacances familles - 7 jours	Demi-pension - 6 à 11 ans	Demi-pension pour 6 à 11 ans	273.00	SF7DP6	Forfait DP 6-11 7 jrs	6	\N	\N
+35	Séjours de vacances familles - 7 jours	Demi-pension - 2 à 5 ans	Demi-pension pour 2 à 5 ans	238.00	SF7DP2	Forfait DP 2-5 7 jrs	6	\N	\N
+36	Séjours de vacances familles - 7 jours	Demi-pension - Moins de 2 ans	Demi-pension pour moins de 2 ans	0.00	SF7DPBB	Forfait DP BB 7 jrs	6	\N	\N
+37	Séjours de vacances familles - 7 jours	Option repas 0-2 ans PC	Option repas pour 0-2 ans en pension complète	105.00	SF7PCRBB	Forfait PC repas BB 7 jrs	6	\N	\N
+38	Séjours de vacances familles - 7 jours	Option repas 0-2 ans DP	Option repas pour 0-2 ans en demi-pension	63.00	SF7DPRBB	Forfait DP repas BB 7 jrs	6	\N	\N
+39	Séjour enfants-ados	Forfait hébergement Séjour enfants-ados	Forfait hébergement Séjour enfants-ados	775.00	SEAFHN	Séjour enfants-ados	7	\N	\N
+40	Séjour enfants-ados	Stage ados Tennis et padel	Stage ados Tennis et padel	50.00	SATP	Stage ados Tennis et padel	7	\N	\N
+41	Séjour enfants-ados	Stage ados Sculpture sur bois	Stage ados Sculpture sur bois	50.00	SASB	Stage ados Sculpture sur bois	7	\N	\N
+42	Séjour enfants-ados	Stage ados Modélisme	Stage ados Modélisme	70.00	STAERO	Stage ados Modélisme	7	\N	\N
+43	Séjour enfants-ados	Stage ados Equitation	Stage ados Equitation	200.00	STEQ	Stage ados Equitation	7	\N	\N
+44	Stages d'été	Écriture partagée (12-19 juillet)	Stage d'écriture partagée du 12 au 19 juillet	140.00	STECRI	Stage Ecriture partagée	8	\N	\N
+45	Stages d'été	Art-thérapie (12-19 juillet)	Stage d'art-thérapie du 12 au 19 juillet	235.00	STAT1	Stage Art thérapie	8	\N	\N
+46	Stages d'été	Golf dès 12 ans (12-19 juillet)	Stage de golf à partir de 12 ans du 12 au 19 juillet	140.00	STGO1	Stage Golf	8	\N	\N
+47	Stages d'été	Théâtre humour (12-19 juillet)	Stage de théâtre humour du 12 au 19 juillet	235.00	STTHU	Stage Théâtre humour	8	\N	\N
+48	Stages d'été	Art-thérapie (2-9 août)	Stage d'art-thérapie du 2 au 9 août	235.00	STAT2	Stage Art thérapie	8	\N	\N
+49	Stages d'été	Golf dès 12 ans (2-9 août)	Stage de golf à partir de 12 ans du 2 au 9 août	140.00	STGO2	Stage Golf	8	\N	\N
+50	Stages d'été	Marche afghane (2-9 août)	Stage marcher au rythme de sa respiration du 2 au 9 août	235.00	STMA1	Stage Marche afghane	8	\N	\N
+51	Stages d'été	Deviens ce que tu es (2-9 août)	Stage deviens ce que tu es du 2 au 9 août	235.00	SES	Stage Deviens ce que tu es	8	\N	\N
+52	Stages d'été	Estime et confiance en soi (9-16 août)	Stage pour renforcer l'estime et la confiance en soi du 9 au 16 août	235.00	STPP1	Stage Estime de soi	8	\N	\N
+53	Stages d'été	Estime et confiance en soi - Tarif couple (9-16 août)	Stage pour renforcer l'estime et la confiance en soi - Tarif couple du 9 au 16 août	225.00	STPP2	Stage Estime de soi (duo)	8	\N	\N
+54	Stages d'été	Dessin-Peinture dès 12 ans (9-16 août)	Stage dessin-peinture à partir de 12 ans du 9 au 16 août	195.00	SDP1	Stage Dessin-Peinture 1	8	\N	\N
+55	Stages d'été	Marche afghane (9-16 août)	Stage marcher au rythme de sa respiration du 9 au 16 août	235.00	STMA2	Stage Marche afghane	8	\N	\N
+56	Stages d'été	Méditation pleine conscience (9-16 août)	Stage méditation de pleine conscience du 9 au 16 août	235.00	SMPC	Stage Méditation	8	\N	\N
+57	Stages d'été	Golf dès 12 ans (9-16 août)	Stage de golf à partir de 12 ans du 9 au 16 août	140.00	STGO3	Stage Golf	8	\N	\N
+58	Stages d'été	Danse naturelle (16-23 août)	Stage de danse naturelle du 16 au 23 août	140.00	STDN	Stage Danse Naturelle	8	\N	\N
+59	Stages d'été	Chant choral (16-23 août)	Stage de chant choral du 16 au 23 août	65.00	STCH	Stage Chant choral	8	\N	\N
+60	Stages d'été	Direction de chœur (16-23 août)	Stage de direction de chœur du 16 au 23 août	245.00	STDC	Stage Direction de chœur	8	\N	\N
+61	Stages d'été	Repérer le positif (16-23 août)	Stage et si je décidais de repérer le positif dans ma vie du 16 au 23 août	235.00	SRP1	Stage Repérer le positif	8	\N	\N
+62	Stages d'été	Repérer le positif - Tarif couple (16-23 août)	Stage et si je décidais de repérer le positif dans ma vie - Tarif couple du 16 au 23 août	225.00	SRP2	Stage Repérer le positif (duo)	8	\N	\N
+63	Stages d'été	Icône (16-23 août)	Stage d'icône du 16 au 23 août	260.00	STIC	Stage Icône	8	\N	\N
+64	Stages d'été	Dessin-Peinture (16-23 août)	Stage de dessin-peinture du 16 au 23 août	215.00	SDP2	Stage Dessin-Peinture 2	8	\N	\N
+65	Stages d'été	Sculpture sur bois (16-23 août)	Stage de sculpture sur bois du 16 au 23 août	265.00	STASCU	Stage Sculpture sur bois	8	\N	\N
+66	Stages d'été	Tennis et Padel dès 12 ans (16-23 août)	Stage de tennis et padel à partir de 12 ans du 16 au 23 août	140.00	STTE	Stage Tennis & Padel	8	\N	\N
+67	Réductions	Réduction -10% séjour long	Réduction de 10% pour un séjour long	\N	RED10SL	Réduction -10% séjour long	\N	\N	\N
+68	Réductions	Réduction -5% famille nombreuse	Réduction de 5% pour les familles nombreuses	\N	RED5FNB	Réduction -5% famille nombreuse	\N	\N	\N
+69	Réductions	Réduction -10% famille nombreuse	Réduction de 10% pour les familles nombreuses	\N	RED10FNB	Réduction -10% famille nombreuse	\N	\N	\N
+70	Réductions	Réduction -5% inscription anticipée	Réduction de 5% pour une inscription anticipée	\N	RED5IA	Réduction -5% inscription anticipée	\N	\N	\N
+71	Réductions	Réduction -10% inscription anticipée	Réduction de 10% pour une inscription anticipée	\N	RED10IA	Réduction -10% inscription anticipée	\N	\N	\N
+72	Réductions	Réduction -15% inscription anticipée	Réduction de 15% pour une inscription anticipée	\N	RED15IA	Réduction -15% inscription anticipée	\N	\N	\N
+73	Réductions	Réduction accordée hébergement	Réduction spécifique pour hébergement	\N	REDH	Réduction accordée hébergement	\N	\N	\N
+74	Réductions	Réduction accordée stage	Réduction spécifique pour un stage	\N	REDS	Réduction accordée stage	\N	\N	\N
+75	Réductions	Réduction -20% 2e enfant / séjour enfants-ados uniquement	Réduction de 20% pour le deuxième enfant sur séjour enfants-ados	-155.00	RED20SEA	Réduction -20% 2e enfant	7	\N	\N

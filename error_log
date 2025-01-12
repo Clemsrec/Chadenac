@@ -1,0 +1,31 @@
+[Sat Jan 04 20:41:59.926278 2025] [mpm_prefork:notice] [pid 38514] AH00163: Apache/2.4.62 (Unix) configured -- resuming normal operations
+[Sat Jan 04 20:41:59.926480 2025] [core:notice] [pid 38514] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 04 20:47:20.639806 2025] [mpm_prefork:notice] [pid 38514] AH00169: caught SIGTERM, shutting down
+[Sat Jan 04 20:47:20.844146 2025] [mpm_prefork:notice] [pid 38774] AH00163: Apache/2.4.62 (Unix) configured -- resuming normal operations
+[Sat Jan 04 20:47:20.844357 2025] [core:notice] [pid 38774] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 04 20:50:24.111572 2025] [mpm_prefork:notice] [pid 38774] AH00169: caught SIGTERM, shutting down
+[Sat Jan 04 20:50:24.316415 2025] [mpm_prefork:notice] [pid 38936] AH00163: Apache/2.4.62 (Unix) configured -- resuming normal operations
+[Sat Jan 04 20:50:24.316618 2025] [core:notice] [pid 38936] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 04 20:50:36.698192 2025] [core:error] [pid 38946] (13)Permission denied: [client 127.0.0.1:54295] AH00035: access to / denied (filesystem path '/Users/clem/Nucom') because search permissions are missing on a component of the path
+[Sat Jan 04 20:52:46.844755 2025] [mpm_prefork:notice] [pid 38936] AH00169: caught SIGTERM, shutting down
+[Sat Jan 04 20:52:47.102803 2025] [mpm_prefork:notice] [pid 39073] AH00163: Apache/2.4.62 (Unix) configured -- resuming normal operations
+[Sat Jan 04 20:52:47.103048 2025] [core:notice] [pid 39073] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 04 20:55:10.515703 2025] [mpm_prefork:notice] [pid 39073] AH00169: caught SIGTERM, shutting down
+[Sat Jan 04 20:55:10.761734 2025] [mpm_prefork:notice] [pid 39249] AH00163: Apache/2.4.62 (Unix) configured -- resuming normal operations
+[Sat Jan 04 20:55:10.761995 2025] [core:notice] [pid 39249] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 04 20:59:58.636121 2025] [mpm_prefork:notice] [pid 39249] AH00169: caught SIGTERM, shutting down
+[Sat Jan 04 22:30:24.013153 2025] [mpm_prefork:notice] [pid 47782] AH00163: Apache/2.4.62 (Unix) configured -- resuming normal operations
+[Sat Jan 04 22:30:24.013671 2025] [core:notice] [pid 47782] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 04 22:30:31.707928 2025] [mpm_prefork:notice] [pid 47782] AH00169: caught SIGTERM, shutting down
+[Sat Jan 04 22:30:31.890226 2025] [mpm_prefork:notice] [pid 47808] AH00163: Apache/2.4.62 (Unix) configured -- resuming normal operations
+[Sat Jan 04 22:30:31.890436 2025] [core:notice] [pid 47808] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 04 22:34:59.734394 2025] [mpm_prefork:notice] [pid 47808] AH00169: caught SIGTERM, shutting down
+[Sat Jan 04 22:34:59.978395 2025] [mpm_prefork:notice] [pid 48127] AH00163: Apache/2.4.62 (Unix) configured -- resuming normal operations
+[Sat Jan 04 22:34:59.978669 2025] [core:notice] [pid 48127] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jan 05 00:00:59.654819 2025] [mpm_prefork:notice] [pid 48127] AH00169: caught SIGTERM, shutting down
+[Sun Jan 05 00:01:00.233381 2025] [mpm_prefork:notice] [pid 51486] AH00163: Apache/2.4.62 (Unix) configured -- resuming normal operations
+[Sun Jan 05 00:01:00.233627 2025] [core:notice] [pid 51486] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 11 16:23:20.134021 2025] [mpm_prefork:notice] [pid 51486] AH00169: caught SIGTERM, shutting down
+[Sat Jan 11 16:23:20.701817 2025] [mpm_prefork:notice] [pid 4078] AH00163: Apache/2.4.62 (Unix) configured -- resuming normal operations
+[Sat Jan 11 16:23:20.702071 2025] [core:notice] [pid 4078] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Jan 11 16:27:04.401627 2025] [mpm_prefork:notice] [pid 4078] AH00169: caught SIGTERM, shutting down
